@@ -122,7 +122,7 @@ http://localhost:8080/v3/api-docs
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/event-booking-api.git
+git clone https://github.com/omnizzy/digicore-event-booking-api
 cd event-booking-api
 ```
 
